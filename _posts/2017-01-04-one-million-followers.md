@@ -5,6 +5,7 @@ description: >-
   When I was 13 I dreamed of growing an intense expansive social following. Now
   I’m leaving it all behind.
 image: 'https://cdn-images-1.medium.com/max/1000/1*AErrJJ-ubNe_kJYiHnn7Sw.jpeg'
+layout: post
 ---
 # The reasons why I wanted to grow in social media are numerous, I haven’t quite figured out the precise reason why I started this journey, but I have a few theories.
 
