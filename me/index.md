@@ -1,11 +1,20 @@
 ---
 layout: about
+published: true
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+Hello. My name is Macleod Sawyer and I am an internet activist, developer, robot, inventor, and entrepreneur.
 
-# What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
+## Entrepreneur?
 
-# What programming languages do you use?
-When making websites I like using Javascript and Sass. I also like Python and making linux scripts.
+I am the founder of IdeaDrops Biotechnologies which is working to make the world a better place through automating the entire agriculture market. 
+
+I used to run a blog network of a million followers that I accumulated over three years, I've left that behind for my own sanity and happiness. I'll link to the post explaining why sometime soon. 
+
+## Why do you do all this?
+
+Honestly, because I'm bored and know I can build things that will make peoples lives easier and better. 
+
+## Anything else?
+
+yeah, I was built not born. 
