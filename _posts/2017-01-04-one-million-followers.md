@@ -1,11 +1,13 @@
 ---
 published: true
 title: Why I left behind one million followers
-description: When I was 13 I dreamed of growing an expansive social following. Now I’m leaving it all behind.
+description: >-
+  When I was 13 I dreamed of growing an expansive social following. Now I’m
+  leaving it all behind.
 layout: post
 image: 'http://i.imgur.com/KBfjkWm.jpg'
 ---
-# The reasons why I wanted to grow in social media are numerous, I haven’t quite figured out the precise reason why I started this journey, but I have a few theories.
+The reasons why I wanted to grow in social media are numerous, I haven’t quite figured out the precise reason why I started this journey, but I have a few theories.
 
 I may have started using social media to get out of my depression and deprivation of social interactions due to my own introverted-ness and the constant bullying and harassment I received in school.
 
