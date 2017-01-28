@@ -1,9 +1,7 @@
 ---
 published: true
 title: Why I left behind one million followers
-description: >-
-  When I was 13 I dreamed of growing an expansive social following. Now I’m
-  leaving it all behind.
+description: When I was 13 I dreamed of growing an expansive social following. Now I’m leaving it all behind.
 layout: post
 image: 'http://i.imgur.com/KBfjkWm.jpg'
 ---
