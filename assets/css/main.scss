@@ -7,7 +7,7 @@
 body {
 	color: $color-black;
 	background: $color-white;
-	font-family: 'Inconsolata', ;
+	font-family: 'Times New Roman', ;
 	font-size: 100%;
 	font-weight: 400;
 }
@@ -19,6 +19,7 @@ p {
 	line-height: 150%;
 }
 a {
+  font-family: "Inconsolata";
   color: $color-link;
   text-decoration: none;
   &:visited {
