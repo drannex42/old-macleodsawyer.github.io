@@ -8,10 +8,14 @@
 
     {% if page.title %}
         <title>{{ page.title }} by Macleod Sawyer</title>
+        <meta property="og:title" content="{{ page.title }} by Macleod Sawyer" />
+
         {% if page.description %}
             <meta name="description" content="{{ page.description}}">
+            <meta property="og:description" content="{{ page.description}}" />
         {% else %}
             <meta name="description" content="{{ page.content | truncate: 100 | strip_html}}">
+            <meta property="og:description" content="{{ page.content | truncate: 100 | strip_html}}" />
         {% endif %}
     {% else %}
         <title>{{ site.name }}</title>
@@ -29,7 +33,10 @@
     {% endif %}
 
     <link rel="icon" href="/assets/img/favicon.png">
-
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@MacleodSawyerID" />
+   
+    
     <link rel="stylesheet" 
 href="https://fonts.googleapis.com/css?family=Inconsolata:400,700">
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
