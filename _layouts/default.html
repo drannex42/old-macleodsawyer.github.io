@@ -16,7 +16,12 @@
     {% else %}
         <title>{{ site.name }}</title>
         <meta name="description" content="{{ site.description }}">
-
+    {% endif %}
+    
+    {% if page.image %}
+        <meta property="og:image" content="{{ page.image }}" />
+    {% else %}
+        <meta property="og:image" content="/assets/img/15940676_10206328677334647_3195620230118504649_n[1].jpg" />
     {% endif %}
 
     {% if site.google_verification %}
@@ -24,6 +29,7 @@
     {% endif %}
 
     <link rel="icon" href="/assets/img/favicon.png">
+
     <link rel="stylesheet" 
 href="https://fonts.googleapis.com/css?family=Inconsolata:400,700">
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
