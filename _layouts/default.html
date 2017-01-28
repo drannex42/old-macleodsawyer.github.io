@@ -8,14 +8,7 @@
 
     {% if page.title %}
         <title>{{ page.title }}</title>
-   
-    {% assign truncatedContent = '' %}
-{% assign paragraphs = post.content | split:'</p>' %}
-{% for paragraph in paragraphs limit:N %}
-    {{ truncatedContent | append: paragraph }}
-    {{ truncatedContent | append: '</p>' }}
-{% endfor %}
-
+        <meta name="description" content="{{ page.content | truncatewords: 20}}...">
     {% else %}
         <title>{{ site.name }}</title>
         <meta name="description" content="{{ site.description }}">
