@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 ---
 For the last ten years of my life I have subjected myself to a numbers game that everyone is taking part in. This is one of the reasons why I left behind a million followers.
