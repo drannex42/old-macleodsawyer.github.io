@@ -1,5 +1,6 @@
 ---
 published: false
+layout: post
 ---
 For the last ten years of my life I have subjected myself to a numbers game that everyone is taking part in. This is one of the reasons why I left behind a million followers.
 
@@ -37,7 +38,4 @@ Appending analytical value to content is antithetical to the point of content.
 
 Content is meant to be free, and meant to help others and ourselves. 
 
-This won't be the last time I write about this, I think about this a lot. 
-
-
-
+This won't be the last time I write about this, I think about this a lot.
