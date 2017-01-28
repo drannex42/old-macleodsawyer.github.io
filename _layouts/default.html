@@ -8,11 +8,16 @@
 
     {% if page.title %}
         <title>{{ page.title }}</title>
+        {% assign truncatedContent = '' %}
+        {% for paragraph in paragraphs limit:N %}
+            <meta name="description" content="{{ truncatedContent | append: paragraph }}">
+        {% endfor %}
+
     {% else %}
         <title>{{ site.name }}</title>
-    {% endif %}
+        <meta name="description" content="{{ site.description }}">
 
-    <meta name="description" content="{{ site.description }}">
+    {% endif %}
 
     {% if site.google_verification %}
         <meta name="google-site-verification" content="{{ site.google_verify }}">
