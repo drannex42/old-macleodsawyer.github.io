@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: I am tired of analytics
 ---
 For the last ten years of my life I have subjected myself to a numbers game that everyone is taking part in. This is one of the reasons why I left behind a million followers.
 
