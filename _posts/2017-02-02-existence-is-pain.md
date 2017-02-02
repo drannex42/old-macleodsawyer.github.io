@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Existence is pain
 layout: post
 ---
