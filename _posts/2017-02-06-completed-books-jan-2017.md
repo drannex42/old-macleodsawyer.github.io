@@ -1,6 +1,6 @@
 ---
 published: true
-title: Completed Books(January 2017)
+title: Completed Books (January 2017)
 layout: post
 ---
 Every month I'm going to start listing every book that I complete. Last month includes 12 books that I started and finished in no particular order. 
