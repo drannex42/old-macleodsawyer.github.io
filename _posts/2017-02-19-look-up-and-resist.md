@@ -35,4 +35,4 @@ The soul of man has been given wings, and at last he is beginning to fly. He is 
 
 Look up. 
 
-[Look up](https://youtu.be/Kbn-GjL6WLA?t=10s) and Resist.
+[Look up](https://youtu.be/Kbn-GjL6WLA?t=10s) and **Resist.**
