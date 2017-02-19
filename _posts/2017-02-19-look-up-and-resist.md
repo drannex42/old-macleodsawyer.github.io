@@ -19,19 +19,20 @@ More than cleverness we need kindness and gentleness.
 
 Without these qualities, life will be violent and all will be lost.
 
-The aeroplane and the radio have brought us closer together. The very nature of these inventions cries out for the goodness in men, cries out for universal brotherhood for the unity of us all. Even now my voice is reaching millions throughout the world, millions of despairing men, women and little children, victims of a system that makes men torture and imprison innocent people. To those who can hear me I say “Do not despair”.
-The misery that is now upon us is but the passing of greed, the bitterness of men who fear the way of human progress: the hate of men will pass and dictators die and the power they took from the people, will return to the people and so long as men die liberty will never perish...
+The internet has brought us closer together. The very nature of these inventions cries out for the goodness in men, cries out for universal brotherhood for the unity of us all. Even now my voice is reaching millions throughout the world, millions of despairing men, women, people, and little children, victims of a system that makes those torture and imprison innocent people. To those who can hear me I say “Do not despair”.
 
-Soldiers: don’t give yourselves to brutes, men who despise you and enslave you, who regiment your lives, tell you what to do, what to think and what to feel, who drill you, diet you, treat you as cattle, as cannon fodder.
+The misery that is now upon us is but the passing of greed, the bitterness of those who fear the way of human progress: the hate of those will pass and dictators die and the power they took from the people, will return to the people and so long as they die liberty will never perish...
 
-Don’t give yourselves to these unnatural men, machine men, with machine minds and machine hearts. You are not machines. You are not cattle. You are men. You have the love of humanity in your hearts. You don’t hate, only the unloved hate. Only the unloved and the unnatural. Soldiers: don’t fight for slavery, fight for liberty.
-You the people have the power, the power to create machines, the power to create happiness. You the people have the power to make life free and beautiful, to make this life a wonderful adventure. Then in the name of democracy let’s use that power, let us all unite. Let us fight for a new world, a decent world that will give men a chance to work, that will give you the future and old age and security. By the promise of these things, brutes have risen to power, but they lie. They do not fulfil their promise, they never will. Dictators free themselves but they enslave the people. Now let us fight to fulfil that promise. Let us fight to free the world, to do away with national barriers, do away with greed, with hate and intolerance. Let us fight for a world of reason, a world where science and progress will lead to all men’s happiness.
+People: don’t give yourselves to brutes, men who despise you and enslave you, who regiment your lives, tell you what to do, what to think and what to feel, who drill you, diet you, treat you as cattle, as cannon fodder.
 
-Soldiers! In the name of democracy, let us all unite!
+Don’t give yourselves to these unnatural people, selfish people, with cold minds and cold hearts. You are not cold. You are not cattle. You are human. You have the love of humanity in your hearts. You don’t hate, only the unloved hate. Only the unloved and the unnatural. People: don’t fight for slavery, fight for liberty.
+You the people have the power, the power to create machines, the power to create happiness. You the people have the power to make life free and beautiful, to make this life a wonderful adventure. Then in the name of democracy let’s use that power, let us all unite. Let us fight for a new world, a decent world that will give men a chance to work, that will give you the future and old age and security. By the promise of these things, brutes have risen to power, but they lie. They do not fulfil their promise, they never will. Dictators free themselves but they enslave the people. Now let us fight to fulfil that promise. Let us fight to free the world, to do away with national barriers, do away with greed, with hate and intolerance. Let us fight for a world of reason, a world where science and progress will lead to all our happiness.
 
-Look up! Look up! The clouds are lifting, the sun is breaking through. We are coming out of the darkness into the light. We are coming into a new world. A kind new world where men will rise above their hate and brutality.
+People! In the name of democracy, let us all unite!
 
-The soul of man has been given wings, and at last he is beginning to fly. He is flying into the rainbow, into the light of hope, into the future, that glorious future that belongs to you, to me and to all of us.
+Look up! Look up! The clouds are lifting, the sun is breaking through. We are coming out of the darkness into the light. We are coming into a new world. A kind new world where all people will rise above their hate and brutality.
+
+The soul of the people has been given wings, and at last they are beginning to fly. They are flying into the rainbow, into the light of hope, into the future, that glorious future that belongs to you, to me and to all of us.
 
 Look up. 
 
