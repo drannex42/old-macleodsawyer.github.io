@@ -1,6 +1,6 @@
 ---
 published: true
-title: Look Up and Resist
+title: Look up and Resist
 image: /assets/img/148748764891388.jpg
 layout: post
 ---
