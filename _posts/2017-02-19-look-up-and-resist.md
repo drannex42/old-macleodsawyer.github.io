@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Look Up and Resist
 image: /assets/img/148748764891388.jpg
 layout: post
@@ -35,4 +35,4 @@ The soul of man has been given wings, and at last he is beginning to fly. He is 
 
 Look up. 
 
-Look up and Resist. 
+Look up and Resist.
