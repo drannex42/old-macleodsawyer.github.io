@@ -9,6 +9,8 @@ Hello. My name is Macleod Sawyer and I am an internet activist, developer, robot
 
 I am the founder of Seritor Biotechnologies which is working to make the world a better place through automating the entire agriculture market. 
 
+I have created and built three companies who were acquired.
+
 I used to run a blog network of a million followers that I accumulated over three years, I've left that behind for my own sanity and happiness. I'll link to the post explaining why sometime soon. 
 
 # Why do you do all this?
