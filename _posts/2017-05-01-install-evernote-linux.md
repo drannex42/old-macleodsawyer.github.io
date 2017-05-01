@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Installing Evernote in Linux Using Wine (May 2017)
 ---
 I use Evernote a lot. It keeps all my thoughts, log journals, experiments, tests, code pieces (bash aliases, etc), personal simulation philisophy, thought pieces, articles, and more. 
@@ -36,4 +36,4 @@ Sadly, evernote does not have a native linux application (doesn't everyone just 
 
 You now have Evernote working (nearly perfectly). 
 
-WebClipper also works which was a massive surprise. Applicator and all.  
+WebClipper also works which was a massive surprise. Applicator and all.
