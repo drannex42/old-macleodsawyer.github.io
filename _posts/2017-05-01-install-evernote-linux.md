@@ -10,29 +10,29 @@ Sadly, evernote does not have a native linux application (doesn't everyone just 
 
 ## Here's how to do it: with wine and winetricks (for GUI haters:
 
-> Install winetricks with your package manager if it's not already installed.
-  Run the following commands in a terminal:
-  export WINEARCH=win64
-  winetricks -q ie8
-  wine "*evernote_installer_path*"
-  Follow the installer's instructions
-  The evernote executable is now located at "*wineprefix_path*/drive_c/Program  Files/Evernote/Evernote/Evernote.exe"
+Install winetricks with your package manager if it's not already installed.
+Run the following commands in a terminal: 
+1. export WINEARCH=win64
+2. winetricks -q ie8
+3. wine "*evernote_installer_path*"
+4. Follow the installer's instructions
+5. The evernote executable is now located at "*wineprefix_path*/drive_c/Program  Files/Evernote/Evernote/Evernote.exe"
 
 
 ## Here is how to make Evernote work with q4wine, a gui for wine.
 
-> Make sure you have winetricks and q4wine installed (look for them in your package manager).
-  Make sure that your terminal is properly configured in q4wine:
-  Opens the options menu: File > Options
-  Select "General" and opens the "Utils" tab
-  Enter the path of your terminal, for instance "/usr/bin/gnome-terminal" if you use gnome.
-  Enter "-e" as an argument (without the quotes, as always), so that q4wine can execute command just after opening a terminal.
-  Download evernote for windows, from the evernote website.
+Make sure you have winetricks and q4wine installed (look for them in your package manager).
+Make sure that your terminal is properly configured in q4wine:
+  1. Opens the options menu: File > Options
+  2. Select "General" and opens the "Utils" tab
+  3. Enter the path of your terminal, for instance "/usr/bin/gnome-terminal" if you use gnome.
+  4. Enter "-e" as an argument (without the quotes, as always), so that q4wine can execute command just after opening a terminal.
+  5. Download evernote for windows, from the evernote website.
 
 **Installation steps:**
 
->  In the terminal window, type "winetricks -q ie8" (without the quotes) and press Enter. Wait    for the ie8 installation to finish.
-   In the prefix, run the Evernote installer.
+1. In the terminal window, type "winetricks -q ie8" (without the quotes) and press Enter. Wait    for the ie8 installation to finish.
+2. Run the Evernote installer.
 
 You now have Evernote working (nearly perfectly). 
 
