@@ -3,15 +3,13 @@ published: true
 title: 'How to fix frozen, bricked, or bootlooped Kindle devices.'
 image: 'https://i.imgur.com/2XtrkZh.jpg'
 ---
-I spent the last several days digging through forums, reddits, comment threads, and dozens of articles on repairing my frozen bootlooped Kindle Paperwhite. 
+My device kept bootlooping **and would not** allow me to read anything so I spent the last several days digging through forums, reddits, comment threads, and dozens of articles on repairing my frozen bootlooped Kindle Paperwhite. 
 
 After trying dozens of different "tips" I found a method by digging around the system directly that will force a system restore without any menu options or directly interacting with the Kindle. 
 
 ---------------------------------------
 
-Problem: Frozen and/or Bootlooped Kindle Paperwhite (or any other current generation Kindle E-reader). 
-
-My device kept bootlooping **and would not** allow me to read anything. If you connected it to the computer you could view your files, ***I highly suggest you save all files in your kindle documents directory as this will delete everything on your Kindle.***
+If you connect it to a computer you will be able view your files, ***I highly suggest you save all files in your kindle documents directory as this will delete everything on your Kindle.***
 
 1. Connect the Kindle to your computer (They suggest Windows or Mac OSX, but I completed this on Ubuntu 17.04 - just requires a file manager) 
 2. Navigate to the **root directory** of the Kindle by accessing your systems file manager and selecting the Kindle device. 
