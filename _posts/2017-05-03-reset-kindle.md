@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'How to fix frozen, bricked, or bootlooped Kindle devices.'
 image: 'https://i.imgur.com/2XtrkZh.jpg'
 ---
