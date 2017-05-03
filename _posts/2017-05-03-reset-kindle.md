@@ -5,7 +5,9 @@ image: 'https://i.imgur.com/2XtrkZh.jpg'
 ---
 I spent the last several days digging through forums, reddits, comment threads, and dozens of articles on repairing my frozen bootlooped Kindle Paperwhite. 
 
-After trying dozens of different "tips" I found the full proof method by digging around the system directly. My solution is below. 
+After trying dozens of different "tips" I found a method by digging around the system directly that will force a system restore without any menu options or directly interacting with the Kindle. 
+
+---------------------------------------
 
 Problem: Frozen and/or Bootlooped Kindle Paperwhite (or any other current generation Kindle E-reader). 
 
