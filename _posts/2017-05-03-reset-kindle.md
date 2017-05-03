@@ -5,7 +5,7 @@ image: 'https://i.imgur.com/2XtrkZh.jpg'
 ---
 I spent the last several days digging through forums, reddits, comment threads, and dozens of articles on repairing my frozen bootlooped Kindle Paperwhite. 
 
-After consulting Amazon customer service they disclosed a tool that will forcibly do a system reset on reboot. 
+After trying dozens of different "tips" I found the full proof method by digging around the system directly. My solution is below. 
 
 Problem: Frozen and/or Bootlooped Kindle Paperwhite (or any other current generation Kindle E-reader). 
 
