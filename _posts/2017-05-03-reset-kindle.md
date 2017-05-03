@@ -11,8 +11,8 @@ Problem: Frozen and/or Bootlooped Kindle Paperwhite (or any other current genera
 
 My device kept bootlooping **and would not** allow me to read anything. If you connected it to the computer you could view your files, ***I highly suggest you save all files in your kindle documents directory as this will delete everything on your Kindle.***
 
-1. Connect Kindle to your computer (They suggest Windows or Mac OSC, but I completed this on Ubuntu 17.04) 
-2. Navigate to the **root directory** of the Kindle by accessing your file manager and selecting the Kindle entry. 
+1. Connect the Kindle to your computer (They suggest Windows or Mac OSX, but I completed this on Ubuntu 17.04 - just requires a file manager) 
+2. Navigate to the **root directory** of the Kindle by accessing your systems file manager and selecting the Kindle device. 
 3. Create a file titled `DO_FACTORY_RESTORE` without any file extensions attached to it. 
 4. Now hold the power button for **forty seconds**. This will force a reboot. 
 5. Wait. 
