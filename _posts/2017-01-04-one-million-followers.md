@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Why I left behind one million followers
 description: >-
   When I was 13 I dreamed of growing an expansive social following. Now I’m
